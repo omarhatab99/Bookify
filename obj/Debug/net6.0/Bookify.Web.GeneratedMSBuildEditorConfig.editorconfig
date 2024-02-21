@@ -9,53 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Bookify.Web
 build_property.RootNamespace = Bookify.Web
-build_property.ProjectDir = F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\
+build_property.ProjectDir = F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web
+build_property.MSBuildProjectDirectory = F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/MohamedElhelalyAspNetCore6/05. Prepare Project/Bookify - Section 5 End/Bookify - Section 5 End/Bookify.Web/Areas/Identity/Pages/_ViewStart.cshtml]
+[F:/MohamedElhelalyAspNetCore6/06. Start Working With Categories Module/Bookify - Section 6 End/Bookify.Web/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/MohamedElhelalyAspNetCore6/05. Prepare Project/Bookify - Section 5 End/Bookify - Section 5 End/Bookify.Web/Views/Home/Index.cshtml]
+[F:/MohamedElhelalyAspNetCore6/06. Start Working With Categories Module/Bookify - Section 6 End/Bookify.Web/Views/Categories/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MohamedElhelalyAspNetCore6/06. Start Working With Categories Module/Bookify - Section 6 End/Bookify.Web/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MohamedElhelalyAspNetCore6/06. Start Working With Categories Module/Bookify - Section 6 End/Bookify.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/MohamedElhelalyAspNetCore6/05. Prepare Project/Bookify - Section 5 End/Bookify - Section 5 End/Bookify.Web/Views/Home/Privacy.cshtml]
+[F:/MohamedElhelalyAspNetCore6/06. Start Working With Categories Module/Bookify - Section 6 End/Bookify.Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/MohamedElhelalyAspNetCore6/05. Prepare Project/Bookify - Section 5 End/Bookify - Section 5 End/Bookify.Web/Views/Shared/Error.cshtml]
+[F:/MohamedElhelalyAspNetCore6/06. Start Working With Categories Module/Bookify - Section 6 End/Bookify.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/MohamedElhelalyAspNetCore6/05. Prepare Project/Bookify - Section 5 End/Bookify - Section 5 End/Bookify.Web/Views/Shared/_Aside.cshtml]
+[F:/MohamedElhelalyAspNetCore6/06. Start Working With Categories Module/Bookify - Section 6 End/Bookify.Web/Views/Shared/_Aside.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Bc2lkZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/MohamedElhelalyAspNetCore6/05. Prepare Project/Bookify - Section 5 End/Bookify - Section 5 End/Bookify.Web/Views/Shared/_Header.cshtml]
+[F:/MohamedElhelalyAspNetCore6/06. Start Working With Categories Module/Bookify - Section 6 End/Bookify.Web/Views/Shared/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/MohamedElhelalyAspNetCore6/05. Prepare Project/Bookify - Section 5 End/Bookify - Section 5 End/Bookify.Web/Views/Shared/_LoginPartial.cshtml]
+[F:/MohamedElhelalyAspNetCore6/06. Start Working With Categories Module/Bookify - Section 6 End/Bookify.Web/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/MohamedElhelalyAspNetCore6/05. Prepare Project/Bookify - Section 5 End/Bookify - Section 5 End/Bookify.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/MohamedElhelalyAspNetCore6/06. Start Working With Categories Module/Bookify - Section 6 End/Bookify.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/MohamedElhelalyAspNetCore6/05. Prepare Project/Bookify - Section 5 End/Bookify - Section 5 End/Bookify.Web/Views/_ViewImports.cshtml]
+[F:/MohamedElhelalyAspNetCore6/06. Start Working With Categories Module/Bookify - Section 6 End/Bookify.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/MohamedElhelalyAspNetCore6/05. Prepare Project/Bookify - Section 5 End/Bookify - Section 5 End/Bookify.Web/Views/_ViewStart.cshtml]
+[F:/MohamedElhelalyAspNetCore6/06. Start Working With Categories Module/Bookify - Section 6 End/Bookify.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/MohamedElhelalyAspNetCore6/05. Prepare Project/Bookify - Section 5 End/Bookify - Section 5 End/Bookify.Web/Views/Shared/_Layout.cshtml]
+[F:/MohamedElhelalyAspNetCore6/06. Start Working With Categories Module/Bookify - Section 6 End/Bookify.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-6wupeiagz9

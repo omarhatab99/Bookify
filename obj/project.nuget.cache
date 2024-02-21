@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tifnybLrCqw2JZLElRqf8pSRD1VMG44GywSPZKFwcMU4sAtjUBlTZeEAZ+WjF1zYWTnv0EYPtO0yx4GBxgnMJA==",
+  "dgSpecHash": "Wx/vyCP+TruAXlTgAxrMEPtmFYTIKpcftpIZ0pbZNAZPt+Sz4c5dVJGXu86MV67vbF2SQrdgP3xsw2EAAfArog==",
   "success": true,
-  "projectFilePath": "F:\\MohamedElhelalyAspNetCore6\\05. Prepare Project\\Bookify - Section 5 End\\Bookify - Section 5 End\\Bookify.Web\\Bookify.Web.csproj",
+  "projectFilePath": "F:\\MohamedElhelalyAspNetCore6\\06. Start Working With Categories Module\\Bookify - Section 6 End\\Bookify.Web\\Bookify.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.8\\microsoft.aspnetcore.cryptography.internal.6.0.8.nupkg.sha512",

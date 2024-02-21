@@ -1,76 +1,152 @@
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\appsettings.Development.json
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\appsettings.json
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\libman.json
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Bookify.Web.staticwebassets.runtime.json
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Bookify.Web.exe
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Bookify.Web.deps.json
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Bookify.Web.runtimeconfig.json
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Bookify.Web.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Bookify.Web.pdb
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Humanizer.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\System.Drawing.Common.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\System.Security.Permissions.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.csproj.AssemblyReference.cache
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.GeneratedMSBuildEditorConfig.editorconfig
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.AssemblyInfoInputs.cache
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.AssemblyInfo.cs
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.csproj.CoreCompileInputs.cache
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.MvcApplicationPartsAssemblyInfo.cs
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.MvcApplicationPartsAssemblyInfo.cache
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.RazorAssemblyInfo.cache
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.RazorAssemblyInfo.cs
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\staticwebassets\msbuild.Bookify.Web.Microsoft.AspNetCore.StaticWebAssets.props
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Bookify.Web.props
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bookify.Web.props
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bookify.Web.props
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\staticwebassets.pack.json
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\staticwebassets.build.json
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\staticwebassets.development.json
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\scopedcss\bundle\Bookify.Web.styles.css
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\scopedcss\projectbundle\Bookify.Web.bundle.scp.css
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.csproj.CopyComplete
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\refint\Bookify.Web.dll
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.pdb
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.genruntimeconfig.cache
-F:\MohamedElhelalyAspNetCore6\05. Prepare Project\Bookify - Section 5 End\Bookify - Section 5 End\Bookify.Web\obj\Debug\net6.0\ref\Bookify.Web.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\appsettings.Development.json
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\appsettings.json
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\libman.json
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Bookify.Web.staticwebassets.runtime.json
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Bookify.Web.exe
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Bookify.Web.deps.json
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Bookify.Web.runtimeconfig.json
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Bookify.Web.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Bookify.Web.pdb
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Humanizer.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.csproj.AssemblyReference.cache
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.GeneratedMSBuildEditorConfig.editorconfig
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.AssemblyInfoInputs.cache
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.AssemblyInfo.cs
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.csproj.CoreCompileInputs.cache
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.MvcApplicationPartsAssemblyInfo.cs
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.MvcApplicationPartsAssemblyInfo.cache
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.RazorAssemblyInfo.cache
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.RazorAssemblyInfo.cs
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\staticwebassets\msbuild.Bookify.Web.Microsoft.AspNetCore.StaticWebAssets.props
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Bookify.Web.props
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bookify.Web.props
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bookify.Web.props
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\staticwebassets.pack.json
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\staticwebassets.build.json
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\staticwebassets.development.json
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\scopedcss\bundle\Bookify.Web.styles.css
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\scopedcss\projectbundle\Bookify.Web.bundle.scp.css
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.csproj.CopyComplete
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\refint\Bookify.Web.dll
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.pdb
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.genruntimeconfig.cache
+G:\WebDev Helaly\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\ref\Bookify.Web.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\appsettings.Development.json
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\appsettings.json
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\libman.json
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Bookify.Web.staticwebassets.runtime.json
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Bookify.Web.exe
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Bookify.Web.deps.json
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Bookify.Web.runtimeconfig.json
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Bookify.Web.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Bookify.Web.pdb
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Humanizer.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.csproj.AssemblyReference.cache
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.AssemblyInfoInputs.cache
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.AssemblyInfo.cs
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.csproj.CoreCompileInputs.cache
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.MvcApplicationPartsAssemblyInfo.cs
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.RazorAssemblyInfo.cache
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.RazorAssemblyInfo.cs
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\staticwebassets\msbuild.Bookify.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Bookify.Web.props
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bookify.Web.props
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bookify.Web.props
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\staticwebassets.pack.json
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\staticwebassets.build.json
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\staticwebassets.development.json
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\scopedcss\bundle\Bookify.Web.styles.css
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\scopedcss\projectbundle\Bookify.Web.bundle.scp.css
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.csproj.CopyComplete
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\refint\Bookify.Web.dll
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.pdb
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\Bookify.Web.genruntimeconfig.cache
+F:\MohamedElhelalyAspNetCore6\06. Start Working With Categories Module\Bookify - Section 6 End\Bookify.Web\obj\Debug\net6.0\ref\Bookify.Web.dll

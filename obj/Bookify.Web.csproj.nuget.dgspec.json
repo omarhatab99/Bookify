@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\MohamedElhelalyAspNetCore6\\05. Prepare Project\\Bookify - Section 5 End\\Bookify - Section 5 End\\Bookify.Web\\Bookify.Web.csproj": {}
+    "F:\\MohamedElhelalyAspNetCore6\\06. Start Working With Categories Module\\Bookify - Section 6 End\\Bookify.Web\\Bookify.Web.csproj": {}
   },
   "projects": {
-    "F:\\MohamedElhelalyAspNetCore6\\05. Prepare Project\\Bookify - Section 5 End\\Bookify - Section 5 End\\Bookify.Web\\Bookify.Web.csproj": {
+    "F:\\MohamedElhelalyAspNetCore6\\06. Start Working With Categories Module\\Bookify - Section 6 End\\Bookify.Web\\Bookify.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MohamedElhelalyAspNetCore6\\05. Prepare Project\\Bookify - Section 5 End\\Bookify - Section 5 End\\Bookify.Web\\Bookify.Web.csproj",
+        "projectUniqueName": "F:\\MohamedElhelalyAspNetCore6\\06. Start Working With Categories Module\\Bookify - Section 6 End\\Bookify.Web\\Bookify.Web.csproj",
         "projectName": "Bookify.Web",
-        "projectPath": "F:\\MohamedElhelalyAspNetCore6\\05. Prepare Project\\Bookify - Section 5 End\\Bookify - Section 5 End\\Bookify.Web\\Bookify.Web.csproj",
+        "projectPath": "F:\\MohamedElhelalyAspNetCore6\\06. Start Working With Categories Module\\Bookify - Section 6 End\\Bookify.Web\\Bookify.Web.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\MohamedElhelalyAspNetCore6\\05. Prepare Project\\Bookify - Section 5 End\\Bookify - Section 5 End\\Bookify.Web\\obj\\",
+        "outputPath": "F:\\MohamedElhelalyAspNetCore6\\06. Start Working With Categories Module\\Bookify - Section 6 End\\Bookify.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
