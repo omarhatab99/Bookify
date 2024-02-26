@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\MohamedElhelalyAspNetCore6\\09. Working With Ajax Forms\\Bookify - Section 9 End\\Bookify.Web\\Bookify.Web.csproj": {}
+    "F:\\MohamedElhelalyAspNetCore6\\11. Finalize The Categories Module\\Bookify - Section 11 End\\Bookify.Web\\Bookify.Web.csproj": {}
   },
   "projects": {
-    "F:\\MohamedElhelalyAspNetCore6\\09. Working With Ajax Forms\\Bookify - Section 9 End\\Bookify.Web\\Bookify.Web.csproj": {
+    "F:\\MohamedElhelalyAspNetCore6\\11. Finalize The Categories Module\\Bookify - Section 11 End\\Bookify.Web\\Bookify.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MohamedElhelalyAspNetCore6\\09. Working With Ajax Forms\\Bookify - Section 9 End\\Bookify.Web\\Bookify.Web.csproj",
+        "projectUniqueName": "F:\\MohamedElhelalyAspNetCore6\\11. Finalize The Categories Module\\Bookify - Section 11 End\\Bookify.Web\\Bookify.Web.csproj",
         "projectName": "Bookify.Web",
-        "projectPath": "F:\\MohamedElhelalyAspNetCore6\\09. Working With Ajax Forms\\Bookify - Section 9 End\\Bookify.Web\\Bookify.Web.csproj",
+        "projectPath": "F:\\MohamedElhelalyAspNetCore6\\11. Finalize The Categories Module\\Bookify - Section 11 End\\Bookify.Web\\Bookify.Web.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\MohamedElhelalyAspNetCore6\\09. Working With Ajax Forms\\Bookify - Section 9 End\\Bookify.Web\\obj\\",
+        "outputPath": "F:\\MohamedElhelalyAspNetCore6\\11. Finalize The Categories Module\\Bookify - Section 11 End\\Bookify.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,25 +40,31 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[6.0.9, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[6.0.9, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[6.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[6.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[6.0.9, )"
             }
           },
           "imports": [
