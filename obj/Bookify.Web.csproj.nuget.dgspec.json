@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\MohamedElhelalyAspNetCore6\\11. Finalize The Categories Module\\Bookify - Section 11 End\\Bookify.Web\\Bookify.Web.csproj": {}
+    "F:\\MohamedElhelalyAspNetCore6\\17. Working on Book Details View\\Bookify - Section 17 - End\\Bookify - Section 17 - End\\Bookify.Web\\Bookify.Web.csproj": {}
   },
   "projects": {
-    "F:\\MohamedElhelalyAspNetCore6\\11. Finalize The Categories Module\\Bookify - Section 11 End\\Bookify.Web\\Bookify.Web.csproj": {
+    "F:\\MohamedElhelalyAspNetCore6\\17. Working on Book Details View\\Bookify - Section 17 - End\\Bookify - Section 17 - End\\Bookify.Web\\Bookify.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MohamedElhelalyAspNetCore6\\11. Finalize The Categories Module\\Bookify - Section 11 End\\Bookify.Web\\Bookify.Web.csproj",
+        "projectUniqueName": "F:\\MohamedElhelalyAspNetCore6\\17. Working on Book Details View\\Bookify - Section 17 - End\\Bookify - Section 17 - End\\Bookify.Web\\Bookify.Web.csproj",
         "projectName": "Bookify.Web",
-        "projectPath": "F:\\MohamedElhelalyAspNetCore6\\11. Finalize The Categories Module\\Bookify - Section 11 End\\Bookify.Web\\Bookify.Web.csproj",
+        "projectPath": "F:\\MohamedElhelalyAspNetCore6\\17. Working on Book Details View\\Bookify - Section 17 - End\\Bookify - Section 17 - End\\Bookify.Web\\Bookify.Web.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\MohamedElhelalyAspNetCore6\\11. Finalize The Categories Module\\Bookify - Section 11 End\\Bookify.Web\\obj\\",
+        "outputPath": "F:\\MohamedElhelalyAspNetCore6\\17. Working on Book Details View\\Bookify - Section 17 - End\\Bookify - Section 17 - End\\Bookify.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,7 +42,11 @@
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[11.0.0, )"
+              "version": "[12.0.0, )"
+            },
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.20.0, )"
             },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
@@ -65,6 +69,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.9, )"
+            },
+            "SixLabors.ImageSharp.Web": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "UoN.ExpressiveAnnotations.NetCore": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             }
           },
           "imports": [
@@ -86,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.111\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.113\\RuntimeIdentifierGraph.json"
         }
       }
     }
